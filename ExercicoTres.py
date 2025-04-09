@@ -1,2 +1,2 @@
-for pia in range(101,11,1):
+for pia in range(101,111,1):
     print(pia)
